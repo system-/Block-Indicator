@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Block indicator
+## title-ZhCn: 格挡监视
+## Author: 兰娜瑟爾-盖斯
+## Version: 1.0
+## Notes: 格挡吸收监视
+Config.lua
+Core.lua
